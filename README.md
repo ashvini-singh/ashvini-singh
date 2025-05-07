@@ -58,10 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashvini-singh&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashvini-singh&theme=tokyo-night" alt="GitHub Contribution Graph" />
-</p>
-
 
 ---
 
