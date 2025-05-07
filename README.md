@@ -54,9 +54,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashvini-singh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashvini-singh&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashvini-singh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashvini-singh&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashvini-singh&theme=tokyo-night" alt="GitHub Contribution Graph" />
+</p>
+
 
 ---
 
