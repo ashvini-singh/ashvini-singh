@@ -52,12 +52,31 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashvini-singh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashvini-singh&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
+## 🚀 GitHub Insights
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>🧠 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvini-singh&layout=compact&theme=tokyonight&border_radius=8" width="350px"/>
+    </td>
+    <td align="center">
+      <h3>🧰 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ashvini-singh&show_icons=true&theme=tokyonight&border_radius=8" width="450px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🔥 GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashvini-singh&theme=tokyonight" width="450px"/>
+    </td>
+    <td align="center">
+      <h3>🏆 GitHub Trophies</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=ashvini-singh&theme=tokyonight&margin-w=8&row=1&no-frame=true" width="450px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
